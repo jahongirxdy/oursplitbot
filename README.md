@@ -1,6 +1,6 @@
 # OurSplit Telegram Bot
 
-OurSplit — 5 kishilik kvartira uchun Telegram xarajat va qarz botidir. Qarzlar **faqat ikki odam o‘rtasida** hisoblanadi; qarzlar uchinchi odam orqali avtomatik yo‘naltirilmaydi.
+OurSplit — kvartira uchun Telegram xarajat va qarz botidir. Qarzlar **faqat ikki odam o‘rtasida** hisoblanadi; qarzlar uchinchi odam orqali avtomatik yo‘naltirilmaydi.
 
 ## Asosiy imkoniyatlar
 
